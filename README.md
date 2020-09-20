@@ -1,3 +1,4 @@
+<!-- markdownlint-disable  MD013 -->
 # xca_template_parser
 
 `xca_template_helper.py` can be used to decode certificate templates used by [XCA](https://github.com/chris2511/xca) which is ag great tool to manage the certificates for home and small enterprise networks.
