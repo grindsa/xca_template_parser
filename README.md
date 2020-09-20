@@ -70,7 +70,7 @@ in answering.
 ## Versioning
 
 I use [SemVer](http://semver.org/) for versioning. For the versions available,
-see the [tags on this repository](https://github.com/grindsa/dkb-robo/tags).
+see the [tags on this repository](https://github.com/grindsa/xca_template_parser/tags).
 
 ## License
 
