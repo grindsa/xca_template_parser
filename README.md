@@ -5,6 +5,8 @@
 
 [XCA templates](https://www.hohnstaedt.de/xca/index.php/documentation/manual) are stored in a proprietary format. I tried to reverse-engineer the format as my [request for documentation](https://github.com/chris2511/xca/issues/197) has unfortunately not been answered.
 
+Special thanks to [@mpeylo](https://github.com/mpeylo) for the initial analysis.
+
 ## Usage
 
 Before running the tool you need to export the template into a file.
